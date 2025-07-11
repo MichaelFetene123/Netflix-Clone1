@@ -39,7 +39,7 @@ z-index: 1;
 }
 
 .header_right ul {
-    width: 130%;
+    /* width: 130%; */
 display: flex; 
 justify-content: space-between;
 align-items: center;
